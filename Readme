@@ -22,3 +22,8 @@ data = pd.read_csv('data.csv')
 
 CSV is uploading as .xls file to github (if issue exists after downloading, please rename as csv)
 Sorry for the inconvinience but I was not sure what is causing this
+
+
+You can load excel file to jupyer also if csv doesn't work
+
+data = pd.read_excel('data.xls)
