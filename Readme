@@ -17,3 +17,8 @@ from sklearn.neighbors import KNeighborsClassifier
 Load data and code to jupyter notebook and place in one folder and run the code
 
 data = pd.read_csv('data.csv')
+
+
+
+CSV is uploading as .xls file to github (if issue exists after downloading, please rename as csv)
+Sorry for the inconvinience but I was not sure what is causing this
