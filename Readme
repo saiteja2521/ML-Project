@@ -18,12 +18,11 @@ Load data and code to jupyter notebook and place in one folder and run the code
 
 data = pd.read_csv('data.csv')
 
+I have loaded dataset as both .csv and .xls (But .csv is downloading as .xls in my system - if issue exists after downloading in your system, please rename as csv and run the code)
 
-
-CSV is uploading as .xls file to github (if issue exists after downloading, please rename as csv)
 Sorry for the inconvinience but I was not sure what is causing this
 
 
-You can load excel file to jupyer also if csv doesn't work
+You can also load excel file to jupyer also if csv doesn't work
 
 data = pd.read_excel('data.xls)
